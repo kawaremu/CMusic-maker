@@ -1,4 +1,4 @@
-# CMusic-maker
+# 🎹 Music maker
 
-Just enjoy these low levels sounds. 🎹
-Made with Nasreddine Merabtene.
+Just enjoy these low levels sounds
+
